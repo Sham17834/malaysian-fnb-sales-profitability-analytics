@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Nasi Lemak Ayam,Main Course,15.9,6.4
+P002,Nasi Lemak Biasa,Main Course,8.9,3.2
+P003,Chicken Rice,Main Course,12.9,5.2
+P004,Mee Goreng Mamak,Main Course,11.9,4.7
+P005,Char Kuey Teow,Main Course,13.9,5.7
+P006,Nasi Goreng Kampung,Main Course,13.5,5.1
+P007,Curry Laksa,Main Course,15.5,
+P008,Asam Laksa,Main Course,14.5,5.9
+P009,Roti Canai Set,Main Course,9.9,3.7
+P010,Hainanese Chicken Chop,Main Course,21.9,10.1
+P011,Beef Rendang Rice,Main Course,19.9,9.2
+P012,Fish And Chips,Main Course,22.9,11.2
+P013,Teh Tarik,Beverage,4.5,1.1
+P014,Kopi O,Beverage,3.9,0.85
+P015,Milo Ais,Beverage,,
+P016,Sirap Bandung,Beverage,5.9,1.5
+P017,Limau Ais,Beverage,4.9,1.2
+P018,White Coffee,Beverage,,
+P019,Iced Lemon Tea,Beverage,5.5,1.35
+P020,Fresh Orange Juice,Beverage,9.9,3.8
+P021,Cendol,Desserts,7.9,2.8
+P022,Ais Kacang,Dessert,8.9,3.2
+P023,Pisang Goreng,Snack,6.9,2.6
+P024,Keropok Lekor,Snack,7.9,3.1
+P025,Kuih Platter,Snack,8.5,3.5
+P026,Satay Chicken,Snack,12.9,5.6
+P027,Roti Bakar,Snack,6.5,2.1
+P028,Spring Rolls,Snack,8.9,3.4
+P029,Chocolate Cake,Dessert,12.9,5.4
+P030,Pandan Cake,Dessert,10.9,4.3
